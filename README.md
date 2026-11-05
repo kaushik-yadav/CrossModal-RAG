@@ -1,4 +1,4 @@
-# Multi-Modal RAG System
+# CrossModal RAG System
 
 A modular Retrieval-Augmented Generation (RAG) pipeline that combines **text, image, and audio understanding** with **FAISS-based semantic search** and **LLM-powered Q&A**.
 The system automatically extracts embeddings, builds a local vector index, and answers queries grounded in document context with proper citation based answers along with original documents.
